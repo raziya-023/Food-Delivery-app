@@ -10,7 +10,7 @@ Feasto is a modern, full-stack food delivery web application built with the MERN
 
 This repository contains the complete source code for both the frontend client and the backend API.
 
-### **Live Application:** [https://feasto-app.netlify.app/](https://feasto-app.netlify.app/)
+### **Live Application:** [https://feasto-api.netlify.app/](https://feasto-api.netlify.app/)
 
 ---
 
