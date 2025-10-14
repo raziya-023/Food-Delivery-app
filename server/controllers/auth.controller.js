@@ -75,7 +75,7 @@ export const loginUser = async (req, res) => {
         const options = {
             httpOnly: true,
             secure: process.env.NODE_ENV === 'production',
-            sameSite: "strict",
+            sameSite: "None",
         };
 
         return res
@@ -111,7 +111,7 @@ export const logoutUser = async (req, res) => {
         const options = {
             httpOnly: true,
             secure: process.env.NODE_ENV === 'production',
-            sameSite: "strict",
+            sameSite: "None",
         };
 
         return res
